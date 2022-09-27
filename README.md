@@ -1,5 +1,10 @@
 # How to replay from a snapshot
 
+### Mainnet Snapshot VexChain 
+```console
+wget https://github.com/genesisblockid/snapshot/releases/download/v2.1.0/snapshots.tar
+```
+
 ### example configurate replay from snapshot
 
 ```bash
