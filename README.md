@@ -6,6 +6,7 @@ wget https://github.com/genesisblockid/snapshot/releases/download/v2.1.0/snapsho
 ```
 
 ### example configurate replay from snapshot
+#### create bash file 
 
 ```bash
 #!/bin/bash
