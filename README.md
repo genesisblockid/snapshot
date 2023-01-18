@@ -2,7 +2,7 @@
 
 ### Mainnet Snapshot VexChain 
 ```console
-wget https://github.com/genesisblockid/snapshot/releases/download/v2.1.0/snapshots.tar
+wget snapshot-0ccc522104236bb6ab25f31aa7f4e96fcc2247d5b67915844e71c10ca075fd52.bin
 ```
 
 ### example configurate replay from snapshot
