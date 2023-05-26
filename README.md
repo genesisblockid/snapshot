@@ -1,8 +1,10 @@
 # How to replay from a snapshot
 
 ### Mainnet Snapshot VexChain 
+
+pull update snapshot from 
 ```console
-wget snapshot-0ccc522104236bb6ab25f31aa7f4e96fcc2247d5b67915844e71c10ca075fd52.bin
+https://v2.vexascan.com/snapshots
 ```
 
 ### example configurate replay from snapshot
